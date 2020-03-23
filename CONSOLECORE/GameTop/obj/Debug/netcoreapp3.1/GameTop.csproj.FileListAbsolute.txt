@@ -1,0 +1,11 @@
+E:\curso DotNet Core\CONSOLECORE\GameTop\bin\Debug\netcoreapp3.1\GameTop.exe
+E:\curso DotNet Core\CONSOLECORE\GameTop\bin\Debug\netcoreapp3.1\GameTop.deps.json
+E:\curso DotNet Core\CONSOLECORE\GameTop\bin\Debug\netcoreapp3.1\GameTop.runtimeconfig.json
+E:\curso DotNet Core\CONSOLECORE\GameTop\bin\Debug\netcoreapp3.1\GameTop.runtimeconfig.dev.json
+E:\curso DotNet Core\CONSOLECORE\GameTop\bin\Debug\netcoreapp3.1\GameTop.dll
+E:\curso DotNet Core\CONSOLECORE\GameTop\bin\Debug\netcoreapp3.1\GameTop.pdb
+E:\curso DotNet Core\CONSOLECORE\GameTop\obj\Debug\netcoreapp3.1\GameTop.csprojAssemblyReference.cache
+E:\curso DotNet Core\CONSOLECORE\GameTop\obj\Debug\netcoreapp3.1\GameTop.AssemblyInfoInputs.cache
+E:\curso DotNet Core\CONSOLECORE\GameTop\obj\Debug\netcoreapp3.1\GameTop.AssemblyInfo.cs
+E:\curso DotNet Core\CONSOLECORE\GameTop\obj\Debug\netcoreapp3.1\GameTop.dll
+E:\curso DotNet Core\CONSOLECORE\GameTop\obj\Debug\netcoreapp3.1\GameTop.pdb

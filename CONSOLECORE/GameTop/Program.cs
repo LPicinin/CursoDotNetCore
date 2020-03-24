@@ -1,4 +1,5 @@
 ﻿using System;
+using GameTop.Lib;
 
 namespace GameTop
 {
@@ -6,7 +7,10 @@ namespace GameTop
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var jogo = new JogoFoda(new Jogador1("Ronaldo"), new Jogador2());
+            jogo.iniciarJogo();
         }
     }
+
+    
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop\\GameTop.csproj": {}
+    "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop\\GameTop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj": {
+    "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj",
+        "projectUniqueName": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj",
         "projectName": "GameTop.Interface",
-        "projectPath": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj",
-        "packagesPath": "C:\\Users\\Luish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\obj\\",
+        "projectPath": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj",
+        "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,24 +58,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\GameTop.Lib.csproj": {
+    "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\GameTop.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\GameTop.Lib.csproj",
+        "projectUniqueName": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\GameTop.Lib.csproj",
         "projectName": "GameTop.Lib",
-        "projectPath": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\GameTop.Lib.csproj",
-        "packagesPath": "C:\\Users\\Luish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\obj\\",
+        "projectPath": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\GameTop.Lib.csproj",
+        "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj": {
-                "projectPath": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj"
+              "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj": {
+                "projectPath": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj"
               }
             }
           }
@@ -120,24 +120,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop\\GameTop.csproj": {
+    "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop\\GameTop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop\\GameTop.csproj",
+        "projectUniqueName": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop\\GameTop.csproj",
         "projectName": "GameTop",
-        "projectPath": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop\\GameTop.csproj",
-        "packagesPath": "C:\\Users\\Luish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop\\obj\\",
+        "projectPath": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop\\GameTop.csproj",
+        "packagesPath": "C:\\Users\\luish\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,11 +150,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj": {
-                "projectPath": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj"
+              "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj": {
+                "projectPath": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Interface\\GameTop.Interface.csproj"
               },
-              "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\GameTop.Lib.csproj": {
-                "projectPath": "C:\\Users\\Luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\GameTop.Lib.csproj"
+              "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\GameTop.Lib.csproj": {
+                "projectPath": "c:\\Users\\luish\\Documents\\GitHub\\CursoDotNetCore\\CONSOLECORE\\GameTop.Lib\\GameTop.Lib.csproj"
               }
             }
           }
@@ -182,7 +182,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
